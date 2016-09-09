@@ -16,4 +16,6 @@ https://github.com/hexahedria/biaxial-rnn-music-composition
 https://github.com/vanstorm9/Midi-AI-Melody-Generator
 
 https://github.com/jisungk/deepjazz
+
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/
 ~~~
