@@ -22,4 +22,6 @@ https://deepmind.com/blog/wavenet-generative-model-raw-audio/
 http://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/
 
 https://github.com/SonyCSL-Paris/DeepBach
+
+https://github.com/yoavz/music_rnn
 ~~~
