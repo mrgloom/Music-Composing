@@ -25,3 +25,8 @@ https://github.com/SonyCSL-Paris/DeepBach
 
 https://github.com/yoavz/music_rnn
 ~~~
+
+Other:
+~~~
+https://github.com/keunwoochoi/music-auto_tagging-keras
+~~~
