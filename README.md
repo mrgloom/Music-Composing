@@ -24,6 +24,8 @@ http://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/
 https://github.com/SonyCSL-Paris/DeepBach
 
 https://github.com/yoavz/music_rnn
+
+https://github.com/richardassar/SampleRNN_torch
 ~~~
 
 Other:
