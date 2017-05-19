@@ -25,6 +25,8 @@ https://github.com/SonyCSL-Paris/DeepBach
 
 https://github.com/yoavz/music_rnn
 
+https://github.com/brannondorsey/midi-rnn
+
 https://github.com/richardassar/SampleRNN_torch
 ~~~
 
