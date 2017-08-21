@@ -30,6 +30,11 @@ https://github.com/brannondorsey/midi-rnn
 https://github.com/richardassar/SampleRNN_torch
 ~~~
 
+Blog posts:
+~~~
+https://medium.com/towards-data-science/deep-learning-with-tensorflow-part-3-music-and-text-generation-8a3fbfdc5e9b
+~~~
+
 Other:
 ~~~
 https://github.com/keunwoochoi/music-auto_tagging-keras
