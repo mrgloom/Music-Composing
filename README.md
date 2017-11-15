@@ -39,3 +39,8 @@ Other:
 ~~~
 https://github.com/keunwoochoi/music-auto_tagging-keras
 ~~~
+
+To look at:
+~~~
+https://github.com/keunwoochoi/dl4mir
+~~~
