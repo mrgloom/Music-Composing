@@ -38,6 +38,9 @@ https://medium.com/towards-data-science/deep-learning-with-tensorflow-part-3-mus
 Other:
 ~~~
 https://github.com/keunwoochoi/music-auto_tagging-keras
+
+Music genre:
+https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
 ~~~
 
 To look at:
