@@ -45,6 +45,7 @@ https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a611
 
 To look at:
 ~~~
+https://github.com/ybayle/awesome-deep-learning-music
 https://github.com/keunwoochoi/dl4mir
 https://github.com/mdeff/fma
 ~~~
