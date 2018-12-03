@@ -48,4 +48,5 @@ To look at:
 https://github.com/ybayle/awesome-deep-learning-music
 https://github.com/keunwoochoi/dl4mir
 https://github.com/mdeff/fma
+https://github.com/ybayle/awesome-deep-learning-music
 ~~~
