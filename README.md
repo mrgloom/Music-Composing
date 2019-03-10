@@ -28,6 +28,8 @@ https://github.com/yoavz/music_rnn
 https://github.com/brannondorsey/midi-rnn
 
 https://github.com/richardassar/SampleRNN_torch
+
+https://github.com/tensorflow/magenta
 ~~~
 
 Blog posts:
