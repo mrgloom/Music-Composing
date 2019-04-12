@@ -30,6 +30,8 @@ https://github.com/brannondorsey/midi-rnn
 https://github.com/richardassar/SampleRNN_torch
 
 https://github.com/tensorflow/magenta
+
+https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
 ~~~
 
 Blog posts:
