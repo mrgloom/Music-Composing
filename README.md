@@ -34,6 +34,8 @@ https://github.com/tensorflow/magenta
 https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
 
 https://github.com/chrisdonahue/wavegan
+
+https://github.com/bearpelican/musicautobot
 ~~~
 
 Blog posts:
