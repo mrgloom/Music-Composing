@@ -36,6 +36,8 @@ https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-m
 https://github.com/chrisdonahue/wavegan
 
 https://github.com/bearpelican/musicautobot
+
+https://research.google.com/seedbank/seed/variational_autoencoder_for_music
 ~~~
 
 Blog posts:
