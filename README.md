@@ -40,6 +40,9 @@ https://github.com/bearpelican/musicautobot
 https://research.google.com/seedbank/seed/variational_autoencoder_for_music
 
 http://nips4creativity.com/music/
+
+https://magenta.tensorflow.org/piano-transformer
+
 ~~~
 
 Blog posts:
