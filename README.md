@@ -43,6 +43,8 @@ http://nips4creativity.com/music/
 
 https://magenta.tensorflow.org/piano-transformer
 
+https://affinelayer.com/sidgen/
+
 ~~~
 
 Blog posts:
