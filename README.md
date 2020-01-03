@@ -45,6 +45,8 @@ https://magenta.tensorflow.org/piano-transformer
 
 https://affinelayer.com/sidgen/
 
+https://github.com/jayg996/BTC-ISMIR19
+
 ~~~
 
 Blog posts:
